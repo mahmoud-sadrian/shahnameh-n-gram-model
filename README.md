@@ -1,2 +1,2 @@
-# Shahnameh-N-gram-Language-Model
+# Shahnameh-N-gram-Model
 N-gram language model of Ferdowsi's Shahnameh
